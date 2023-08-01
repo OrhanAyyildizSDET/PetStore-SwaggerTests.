@@ -22,6 +22,7 @@ org.apache.poi : poi
 ```python
 # testng.xml
 ```
+![PetStore XML file](https://github.com/OrhanAyyildizSDET/PetStore-SwaggerTests./assets/100473852/234746e1-24ca-4c80-b6be-1ca7f754ab23)
 
 ## Contributing
 
